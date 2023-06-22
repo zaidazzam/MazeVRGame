@@ -1,6 +1,17 @@
 # VabirinSebatikVR
 ​Vabirin Sebatik adalah permainan video yang dirancang khusus untuk teknologi reality virtual(VR). dalam game ini, pemain harus mengumpulkan koin sebanyak-banyaknya melalui labirin yang membingungkan sehingga pemain merasakan sensasi seolah-olah mereka benar -benar berada didalam sebuah labirin. pemain juga dapat mendengarkan bunyi saat mendapatkan koin dan bahkan merasakan sentuhan jika game tersebut dilengkapi dengan controller gerak.
 
+Cara memainkan:
+1. Gerakkan analog controler kiri untuk maju dan mundur
+
+2. Dalam keadaan berjalan, gerakkan analog controller kanan/kiri kedepanterlebih dahulu  lalu geser ke kanan/kiri perlahan untuk berbelok kiri/kanan
+
+3. Dalam keadaan diam jika ingin menghadap sebelah kanan arahkan analog controller kanan kearah​ kanan
+
+4. Dalam keadaan diam jika ingin menghadap kiri arahkan analog controller kiri kearah kiri
+
+
+
 1. Zaid Abdullah Azzam ( 6706213055 )
 2. Alpin Yuda Warija Rambe ( 6706213007 )
 3. Sakha Wibisono ( 6706213102 )
