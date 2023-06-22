@@ -12,9 +12,9 @@ Cara memainkan:
 
 
 
- Zaid Abdullah Azzam ( 6706213055 )
- Alpin Yuda Warija Rambe ( 6706213007 )
- Sakha Wibisono ( 6706213102 )
+ - Zaid Abdullah Azzam ( 6706213055 )
+ - Alpin Yuda Warija Rambe ( 6706213007 )
+ - Sakha Wibisono ( 6706213102 )
 
 Link video :  https://youtu.be/BxnCWFmWBb8
 Link aplikasi itch.io : https://zaiiazzam.itch.io/vabirinsebatikvr
